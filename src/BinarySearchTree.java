@@ -7,12 +7,8 @@ interface IComparator<T> {
   int compare(T left, T right); 
 } 
 
-// a contract for function objects
-interface IFunc<A, R> { 
+// IFunc's definition is included in the Lists.java file
 
-  // applies this function object to the given argument
-  R apply(A arg); 
-}
 
 // a function object that acts on IBinTrees, using double dispatch to
 // perform operations on nodes and leaves of binary trees uniquely
