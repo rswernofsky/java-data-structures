@@ -236,7 +236,7 @@ class BinarySearchTree<T> implements Iterable<T> {
     this.root = new Insert<T>(item, this.order).apply(this.root);
   }
 
-  // returns the value at the given node when the given search returns zero
+  // returns the value at the node where the given search returns zero
   // returns null if there's no value in the tree that satisfies the search
   T find(IFunc<T, Integer> search) {
     return new Find<T>(search).apply(this.root);
