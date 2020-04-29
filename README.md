@@ -1,5 +1,5 @@
-# DataStructures
-This repo contains several common data structures, made using Java, that I made and used during my enrollment in Northeastern's [CS 2510 Accelerated](https://course.ccs.neu.edu/cs2510a) course. They were created using guidance from the homeworks, labs, lectures, and exams created by my professor, [Benjamin Lerner](https://www.khoury.northeastern.edu/people/benjamin-lerner/). 
+# Some Java Data Structures
+This repository contains several common data structures, made using Java, that I made and used during my enrollment in Northeastern's [CS 2510 Accelerated](https://course.ccs.neu.edu/cs2510a) course. They were created using guidance from the homeworks, labs, lectures, and exams created by my professor, [Benjamin Lerner](https://www.khoury.northeastern.edu/people/benjamin-lerner/). 
 
 ## A breakdown of the different files
 | File | Description |
