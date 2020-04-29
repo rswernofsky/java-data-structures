@@ -5,13 +5,9 @@ This repo contains several common data structures, made using Java, during my en
 | File | Description |
 | ----------- | ----------- |
 | BinarySearchTree.java | Coming soon |
-| ----------- | ----------- |
 | Deque.java | Coming soon |
-| ----------- | ----------- |
 | Lists.java | Coming soon |
-| ----------- | ----------- |
 | MultiSet.java | Coming soon |
-| ----------- | ----------- |
 | StacksAndQueues.java | Coming soon |
 
 
